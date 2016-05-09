@@ -1,4 +1,5 @@
 Gem::Specification.new do |s|
+  s.authors           = ['Unknown']
   s.platform          = Gem::Platform::RUBY
   s.name              = 'refinerycms-galleries'
   s.version           = '0.4'
